@@ -1,1 +1,1 @@
-# Exercicio1Gen
+# Primeiro Exercicio feito no Portugol
